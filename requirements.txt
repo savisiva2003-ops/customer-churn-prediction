@@ -1,0 +1,42 @@
+ # Core data processing and scientific computing
+pandas>=1.3.5
+numpy>=1.21.6
+
+# Machine learning
+scikit-learn>=1.0.2
+joblib>=1.1.0
+
+# Natural language processing
+nltk>=3.7
+
+# Web interface and visualization
+streamlit>=1.10.0
+plotly>=5.8.0
+extra-streamlit-components>=0.1.56
+
+# Database
+pymongo>=4.1.1
+
+# Data visualization
+plotly>=5.8.0
+
+# Time handling
+python-dateutil>=2.8.2
+
+# Security
+hashlib
+
+# Warnings handling
+warnings
+
+# Regular expressions
+re
+
+# System and time
+sys
+time
+datetime
+
+# API functionality for database queries
+stx
+
